@@ -8,7 +8,7 @@ git remote add origin git@github.com:willb611/WindowsDevSetup.git;
 git pull origin master;`
 
 ## Other relevant repositories? 
-- [Dotphiles (config files)](https://github.com/willb611/dotphiles)
+- [Dotphiles (config files)](https://gitlab.com/willb611/dotphiles)
 - [bash-it (completions and alias, etc)](https://github.com/willb611/bash-it)
 - [Jetbrains settings repository](https://github.com/willb611/settings-jetbrains)
 
