@@ -13,4 +13,4 @@ git pull origin master;`
 - [Jetbrains settings repository](https://github.com/willb611/settings-jetbrains)
 
 ### How do I use Jetbrains settings repository?
-Using Jetbrains settings plugin. The repository can be found on disk somewhere. In windows I found it at: ```C:\Users\Will\.IntelliJIdea2017.3\config\settingsRepository```
+Using Jetbrains settings plugin. The repository can be found on disk somewhere. In Windows I found it at: ```C:\Users\Will\.IntelliJIdea2017.3\config\settingsRepository```
