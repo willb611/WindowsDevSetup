@@ -1,6 +1,11 @@
 # What is this repo? (WindowsDevSetup)
 Stuff to go in my Users home directory on windows i.e. `C:\Users\Will`
 
+## Pre-requisite?
+Some kind of git of preferred. Otherwise you should be able to download the folder as zip file and extract it.
+
+Usually I install [Git bash](https://github.com/git-for-windows/git)
+
 ## How do I use this?
 `cd ~;
 git init;
