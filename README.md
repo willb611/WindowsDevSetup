@@ -53,3 +53,11 @@ This uses `mklink` functionality to trick iCloud app into saving somewhere other
 12. If `icloud Photos` application doesn't start, then open it, it should start downloading and syncing photos to your desired drive `F:\Pictures\iCloud Photos\Photos`
 
 
+### Choco
+[Chocolatey](https://community.chocolatey.org/) is a package manager for Windows.
+
+I usually install it, along with packages:
+
+- [make](https://community.chocolatey.org/packages/make) (for Makefile)
+
+
