@@ -60,4 +60,8 @@ I usually install it, along with packages:
 
 - [make](https://community.chocolatey.org/packages/make) (for Makefile)
 
+### FastCopy
+[Fastcopy](https://en.wikipedia.org/wiki/FastCopy) can be used for copying files or directories while preserving file attributes (e.g. date created). Installer include a built-in add-on for the windows context menu (e.g. while using file browser).
+
+
 
