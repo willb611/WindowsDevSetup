@@ -136,6 +136,7 @@
 
     # My favorite :D
   	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all --date=local
+  	lolah = log --graph --decorate --pretty=oneline --abbrev-commit --all --date=local --max-count=10
     ign = ls-files -o -i --exclude-standard
     tracked = ls-tree -r HEAD --name-only
 
